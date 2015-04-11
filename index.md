@@ -29,13 +29,13 @@ Memory Usage Results:
 
 | Date      | JavaVM    | OS            | Link                    |
 |-----------|-----------|---------------|-------------------------|
-| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-10](/memory/2013_10) |
+| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-10](/memory/2013_10/) |
 
 Stability Results:
 
 | Date      | JavaVM    | OS            |           Link             |
 |-----------|-----------|---------------|----------------------------|
-| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-13](/stability/2013_10) |
+| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-13](/stability/2013_10/) |
 
 For older benchmark results see [History Of Results](/results/HistoryOfResults/).
 
