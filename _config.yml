@@ -13,6 +13,8 @@ google_analytics_id: UA-10413214-2
 #repository: https://github.com/jekyll/jekyll
 #help_url: https://github.com/jekyll/jekyll-help
 
+github: [Repository metadata]
+
 # Build settings
 markdown: kramdown
 relative_permalinks: false
