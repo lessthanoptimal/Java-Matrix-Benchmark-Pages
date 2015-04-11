@@ -11,33 +11,33 @@ JMatBench rigorously tests performance across a wide range of matrix sizes and l
 
 Understanding benchmark pages:
 
-* [Runtime Performance](/manual/DescriptionRuntime)
-* [Memory](/manaul/DescriptionMemory)
-* [Stability](/manual/DescriptionStability)
+* [Runtime Performance]({{site.baseurl}}/manual/DescriptionRuntime)
+* [Memory]({{site.baseurl}}/manual/DescriptionMemory)
+* [Stability]({{site.baseurl}}/manual/DescriptionStability)
 
 The [manual](manual) provides instructions on how to use the benchmark.
-To understand how the runtime performance is benchmarked see the [methodology page](/manual/MethodologyRuntimeBenchmark).
+To understand how the runtime performance is benchmarked see the [methodology page]({{site.baseurl}}/manual/MethodologyRuntimeBenchmark).
 
 Runtime Performance Results:
 
 | Date       | Speed   | Num Threads | Bits | Year Made | Processor/Link | 
 |------------|---------|-------------|------|-----------|----------------|
-| *2013.10*  | 3.4 GHz | 4 (8)       | 64   | 2011      | [Core i7-2600](/runtime/2013_10_Corei7v2600/) | 
-| 2011.01.18 | 720 MHz | 1           | 32   | 2010      | [Arm Cortex-A8](/runtime/2011_01_ArmA8/) |
+| *2013.10*  | 3.4 GHz | 4 (8)       | 64   | 2011      | [Core i7-2600]({{site.baseurl}}/runtime/2013_10_Corei7v2600/) | 
+| 2011.01.18 | 720 MHz | 1           | 32   | 2010      | [Arm Cortex-A8]({{site.baseurl}}/runtime/2011_01_ArmA8/) |
 
 Memory Usage Results:
 
 | Date      | JavaVM    | OS            | Link                    |
 |-----------|-----------|---------------|-------------------------|
-| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-10](/memory/2013_10/) |
+| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-10]({{site.baseurl}}/memory/2013_10/) |
 
 Stability Results:
 
 | Date      | JavaVM    | OS            |           Link             |
 |-----------|-----------|---------------|----------------------------|
-| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-13](/stability/2013_10/) |
+| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-13]({{site.baseurl}}/stability/2013_10/) |
 
-For older benchmark results see [History Of Results](/results/HistoryOfResults/).
+For older benchmark results see [History Of Results]({{site.baseurl}}/results/HistoryOfResults/).
 
 Tested Libraries: 
 

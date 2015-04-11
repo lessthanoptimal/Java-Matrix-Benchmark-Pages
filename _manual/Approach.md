@@ -12,13 +12,13 @@ The following pages provide more information on the specific benchmarks.  Links 
 
 Methodology:
 
-* [Methodology for the Runtime Benchmark](/manual/MethodologyRuntimeBenchmark/)
+* [Methodology for the Runtime Benchmark]({{site.baseurl}}/manual/MethodologyRuntimeBenchmark/)
 
 Description:
 
-* [Runtime Benchmark](/manual/DescriptionRuntime)
-* [Memory Benchmark](/manual/DescriptionMemory)
-* [Stability Benchmark](/manual/DescriptionStability)
+* [Runtime Benchmark]({{site.baseurl}}/manual/DescriptionRuntime)
+* [Memory Benchmark]({{site.baseurl}}/manual/DescriptionMemory)
+* [Stability Benchmark]({{site.baseurl}}/manual/DescriptionStability)
 
 # Benchmark Bias
 
