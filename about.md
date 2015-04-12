@@ -4,8 +4,17 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to Java Matrix Benchmark.  This tool was developed by Peter Abeles in his spare time as a way to test his own library EJML and as a way to motivate other developers to improve the performance of their libraries.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Thanks to the comments and feedback from several people the quality of this benchmark been improved.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In no particular order:
+
+* Anders Peterson  
+* Luc Maisonobe    
+* Holger Arndt     
+* Mikio Braun      
+* Frode Carlsen    
+* Piotr Wendykier 
+
+

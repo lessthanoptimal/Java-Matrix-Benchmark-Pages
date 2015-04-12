@@ -30,15 +30,3 @@ There are some real-world situations that would not be accurately represented by
 
 It should also be mentioned that the developer of this benchmark is also the developer of Efficient Java Matrix Library (EJML).
 
-# Acknowledgements
-
-Thanks to the comments and feedback from several people the quality of this benchmark been improved.
-
-In no particular order:
-
-* Anders Peterson  
-* Luc Maisonobe    
-* Holger Arndt     
-* Mikio Braun      
-* Frode Carlsen    
-* Piotr Wendykier 
