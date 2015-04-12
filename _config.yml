@@ -3,7 +3,7 @@ title: Java Matrix Benchmark
 email: peter.abeles@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Java Matrix Benchmark is a tool for evaluating Java linear algebra libraries for speed, stability, and memory usage. Its goal is to help improve the state of high performance computing on the Java platform and to encourage performance optimization across a range of matrix sizes.
-baseurl: "/Java-Matrix-Benchmark-Test" # the subpath of your site, e.g. /blog/
+baseurl: "/Java-Matrix-Benchmark" # the subpath of your site, e.g. /blog/
 url: "http://lessthanoptimal.github.io" # the base hostname & protocol for your site
 twitter_username: NotSoOptimal
 github_username:  lessthanoptimal

@@ -3,7 +3,6 @@ permalink: "/manual/DescriptionRuntime/"
 layout: page
 title:  "Description of Runtime Performance Benchmark"
 ---
-# Introduction
 
 This page discusses which operations were tested and how to understand the results for the runtime performance benchmark.  The tested operations were primarily selected based on how commonly they are used or to show off the potential advantages or disadvantages of library design issues.  Results are shown using relative runtime plots.  For a discussion of the techniques and reasoning behind testing procedures see [Methodology_RuntimeBenchmark].
 

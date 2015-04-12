@@ -35,7 +35,7 @@ Stability Results:
 
 | Date      | JavaVM    | OS            |           Link             |
 |-----------|-----------|---------------|----------------------------|
-| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-13]({{site.baseurl}}/stability/2013_10/) |
+| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-10]({{site.baseurl}}/stability/2013_10/) |
 
 For older benchmark results see [History Of Results]({{site.baseurl}}/results/HistoryOfResults/).
 
@@ -43,7 +43,7 @@ Tested Libraries:
 
 * [Colt](http://dsd.lbl.gov/~hoschek/colt/)
 * [Commons Math](http://commons.apache.org/math/userguide/linear.html)
-* [Efficient Java Matrix Library](http://code.google.com/p/efficient-java-matrix-library) (EJML)
+* [Efficient Java Matrix Library](http://ejml.org/) (EJML)
 * [Jama](http://math.nist.gov/javanumerics/jama/)
 * [jblas](http://jblas.org/)
 * [JScience](http://jscience.org/) (Older benchmarks only)
@@ -51,6 +51,6 @@ Tested Libraries:
 * [OjAlgo](http://ojalgo.org/)
 * [Parallel Colt](http://sites.google.com/site/piotrwendykier/software/parallelcolt)
 * [Universal Java Matrix Package](http://www.ujmp.org/) (UJMP) 
-* [Elegant Linear Algebra for Java](http://code.google.com/p/la4j/) (la4j)
+* [Elegant Linear Algebra for Java](http://la4j.org/) (la4j)
 
 If you wish to ask a question consider posting to the [discussion group](http://groups.google.com/group/java-matrix-benchmark-discuss), or if it is specific to a particular wikipage post a comment on the wikipage itself.  

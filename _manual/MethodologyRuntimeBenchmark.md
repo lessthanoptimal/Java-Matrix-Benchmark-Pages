@@ -41,12 +41,6 @@ This approach is very simple and for many application is good enough, when only 
 4. [Repeatability](#1.4)
 5. [Exception Handling](#1.5)
 
-
-In the following subsection these issues are discussed and examples given to illustrate their importance.
-
-  # [#1_Benchmark_Procedures Benchmark Procedures] 
-  # [#2_Summary Summary] 
-
 # 1 Benchmark Procedures
 
 Measuring runtime performance accurately requires benchmark procedures that carefully take in account the reality of how modern computers operate. Desktop computers today are very complex and no single application has control over the entire system.  This complexity adds more unknowns and makes it more difficult to predict future performance based upon your past results, which is what a benchmark is used to do.  
