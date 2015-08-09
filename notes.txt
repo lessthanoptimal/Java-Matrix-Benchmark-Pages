@@ -1,0 +1,6 @@
+sudo apt-get install nodejs ruby-dev
+sudo gem install jekyll
+
+
+jekyll serve
+
