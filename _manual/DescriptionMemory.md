@@ -4,7 +4,7 @@ layout: page
 title:  "Description of Memory Usage Benchmark"
 ---
 
-![]({{site.baseurl}}/runtime/2015_07_XeonQuad/3000.png)
+![]({{site.baseurl}}/memory/2013_10/3000.png)
 
 *Plot showing relative memory usage for each library in different mathematical operations.* 
 {: .center}

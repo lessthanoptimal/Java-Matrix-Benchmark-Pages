@@ -42,7 +42,7 @@ The benchmark also produces plots which show the absolute runtime.  These have n
 # Absolute Runtime Plots
 ![]({{site.baseurl}}/runtime/2015_07_XeonQuad/absoluteScale.jpg)
 
-** Absolute runtime plots show how long each operations takes.  Unlike all the previous plots, lower numbers are better here. **
+**Absolute runtime plots show how long each operations takes.  Unlike all the previous plots, lower numbers are better here.**
 
 In addition to relative runtime plots, plots of the absolute runtime are computed.  These plots show on a log log scale how long each operation takes to run for each library.  It is easier to see how the performance of each library changes as a function of time and how CPU caches affect it.  However it is harder to see how much faster or slower each library is and these plots require more room to be clear.
 
