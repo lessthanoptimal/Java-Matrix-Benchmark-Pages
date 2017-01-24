@@ -8,7 +8,7 @@ This page discusses which operations were tested and how to understand the resul
 
 # Understanding Summary Plots
 
-![](http://java-matrix-benchmark.googlecode.com/svn/wiki/RuntimeCorei7M620_2011_02.attach/summary.png)
+![]({{site.baseurl}}/runtime/2015_07_XeonQuad/summary.png)
 
 **Summary box-and-whisker plots are an attempt to provide an overview of performance for all the libaries tested in a single plot.  Higher numbers and more compact distributions represent better performance and more consistent performance across all operations, respectively.**
 
@@ -29,18 +29,18 @@ MAX_SAMPLES is arbitrarily set to 100.  For example: if EJML ran at 75% of the s
 
 Results are presented primarily using relative runtime plots.  These plots show how fast one library runs relative to another library across a range of matrix sizes for a single operation.  An example of such a plot is shown below:
 
-![](http://java-matrix-benchmark.googlecode.com/svn/wiki/RuntimeQ9400_2010_02.attach/mult.png)
+![]({{site.baseurl}}/runtime/2015_07_XeonQuad/mult.png)
 
 *Higher numbers are better and represent more operations per second relative to other libraries.  The scale is normalized against the fastest library at each matrix size.  This formating is much succinct that standard FLOPS plots.*
 
-The x-axis is input matrix size and the y-axis shows the relative runtime.  In general matrix size refers to the width and height of the input matrix/matrices, e.g. 100 on the axis refers to a 100 by 100 matrix with 1,000 elements.  However there are some operations which use non-square matrices, see below.  The reference library is the fastest library for each matrix size.  Therefore one library always has a value of one.  Larger the y-axis value is the faster the library is.  If a plot ends prematurely for a library that means that it either became too slow or a fatal error occurred and the test was stopped.
+The x-axis is input matrix size and the y-axis shows the relative runtime.  In general matrix size refers to the width and height of the input matrix/matrices, e.g. 100 on the axis refers to a 100 by 100 matrix with 10,000 elements.  However there are some operations which use non-square matrices, see below.  The reference library is the fastest library for each matrix size.  Therefore one library always has a value of one.  Larger the y-axis value is the faster the library is.  If a plot ends prematurely for a library that means that it either became too slow or a fatal error occurred and the test was stopped.
 
 By viewing these plots it is easy to tell how fast a particular library runs relative to any other library.  Since these plots show the results as a function of matrix size it is often easy to see when CPU cache size starts adversely effecting one algorithm or when a library switches to a multi-threaded approach.  
 
 The benchmark also produces plots which show the absolute runtime.  These have not been posted online for take of simplicity.  Absolute runtime plots are in general more useful for understanding the behavior of an individual library and not for comparing performance across several libraries.
 
 # Absolute Runtime Plots
-![](http://java-matrix-benchmark.googlecode.com/svn/wiki/RuntimePerformanceBenchmark.attach/absoluteScale.jpg)
+![]({{site.baseurl}}/runtime/2015_07_XeonQuad/absoluteScale.jpg)
 
 ** Absolute runtime plots show how long each operations takes.  Unlike all the previous plots, lower numbers are better here. **
 

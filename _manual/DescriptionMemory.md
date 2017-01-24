@@ -4,7 +4,7 @@ layout: page
 title:  "Description of Memory Usage Benchmark"
 ---
 
-![](http://java-matrix-benchmark.googlecode.com/svn/wiki/MemoryResults_2011_02.attach/3000.png)
+![]({{site.baseurl}}/runtime/2015_07_XeonQuad/3000.png)
 
 *Plot showing relative memory usage for each library in different mathematical operations.* 
 {: .center}
