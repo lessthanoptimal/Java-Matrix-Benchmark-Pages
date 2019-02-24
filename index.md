@@ -38,7 +38,6 @@ For older benchmark results see [History Of Results]({{site.baseurl}}/manual/His
 <h2>Source Code</h2>{:.center }
 [https://github.com/lessthanoptimal/Java-Matrix-Benchmark](https://github.com/lessthanoptimal/Java-Matrix-Benchmark)
 {: .center }
-**WARNING:  Source code is under going major revision and probably doesn't work very well**{: style="font-weight: bold;"}
 
 Understanding the benchmark:
 
