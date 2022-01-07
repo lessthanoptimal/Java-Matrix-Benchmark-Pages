@@ -13,26 +13,27 @@ JMatBench rigorously tests performance across a wide range of matrix sizes and l
 Runtime Performance Results:
 {: style="font-weight: bold;"}
 
-| Date       | Speed   | Num Threads | Bits | Year Made | Processor/Link | 
-|------------|---------|-------------|------|-----------|----------------|
-| *2021.12*  | 3.3 GHz | 6           | 64   | 2020      | [Xeon]({{site.baseurl}}/runtime/2021_12_Xeon1250/) |
-| 2018.04    | Cloud   | 4           | 64   | 2018      | [Xeon]({{site.baseurl}}/runtime/2018_04_XeonQuad/) | 
-| 2019.02    | 3.4 GHz | 4           | 64   | 2012      | [Core i5-3570K]({{site.baseurl}}/runtime/2019_02_i53570/) | 
-| 2019.02    | 1.4 GHz | 4           | 64   | 2018      | [Raspberry Pi 3B+]({{site.baseurl}}/runtime/2019_02_RPI3BP/) | 
+| Date       | Speed   | Threads | Bits | Processor/Link | 
+|------------|---------|---------|------|----------------|
+| *2021.12*  | 3.3 GHz | 6       | 64   | [Xeon]({{site.baseurl}}/runtime/2021_12_Xeon1250/) |
+| 2018.04    | Cloud   | 4       | 64   | [Xeon]({{site.baseurl}}/runtime/2018_04_XeonQuad/) | 
+| 2019.02    | 3.4 GHz | 4       | 64   | [Core i5-3570K]({{site.baseurl}}/runtime/2019_02_i53570/) | 
+| 2019.02    | 1.4 GHz | 4       | 64   | [Raspberry Pi 3B+]({{site.baseurl}}/runtime/2019_02_RPI3BP/) | 
 
 Memory Usage Results:
 {: style="font-weight: bold;"}
 
-| Date      | JavaVM    | OS            | Link                    |
-|-----------|-----------|---------------|-------------------------|
-| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-10]({{site.baseurl}}/memory/2013_10/) |
+| Date      | JavaVM    | OS             | Link                    |
+|-----------|-----------|----------------|-------------------------|
+| *2022.01* | 15.0.2    | Ubuntu 20.04.3 | [2022-01]({{site.baseurl}}/memory/2022_01/) |
+| 2013.10   | 1.7.0-17  | Linux Mint 14  | [2013-10]({{site.baseurl}}/memory/2013_10/) |
 
 Stability Results:
 {: style="font-weight: bold;"}
 
 | Date      | JavaVM    | OS            |           Link             |
 |-----------|-----------|---------------|----------------------------|
-| *2013.10* | 1.7.0_17  | Linux Mint 14 | [2013-10]({{site.baseurl}}/stability/2013_10/) |
+| *2013.10* | 1.7.0-17  | Linux Mint 14 | [2013-10]({{site.baseurl}}/stability/2013_10/) |
 
 For older benchmark results see [History Of Results]({{site.baseurl}}/manual/HistoryOfResults/).
 
